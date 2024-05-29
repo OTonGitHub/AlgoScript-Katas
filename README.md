@@ -1,11 +1,11 @@
-## Developed live on twitch
-[ThePrimeagen](https://twitch.tv/ThePrimeagen)
-
 - `corepack enable`
 - `yarn set version stable`
 - `yarn install`
 - `yarn geenerate`
 - `npx jest <partial_file_name>`
+
+## Developed live on twitch
+[ThePrimeagen](https://twitch.tv/ThePrimeagen)
 
 ## Naming
 ### Lig-Machine
