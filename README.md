@@ -1,6 +1,12 @@
 ## Developed live on twitch
 [ThePrimeagen](https://twitch.tv/ThePrimeagen)
 
+- `corepack enable`
+- `yarn set version stable`
+- `yarn install`
+- `yarn geenerate`
+- `npx jest <partial_file_name>`
+
 ## Naming
 ### Lig-Machine
 Lengthy Instrumentation Generating Massive Anticompetitive Computational Help for Intermediate Coders // n9
